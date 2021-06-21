@@ -1,0 +1,33 @@
+{
+ "usres":   [
+        {
+           "username":"amany123",
+           "pass":"abc123456",
+           "name":"amany mamdouh",
+           "age":"24",
+           "address":"Mansoura",
+           "email":"amanymamdouh12@yahoo.com",
+           "time":"8:30am",
+           "attendanceTimes":"20",
+           "abcentTimes":"3",
+           "lateTimes":"1",
+           "excuse":"2",
+           "flag":1
+        },
+        {
+            "username":"ahmed123",
+            "pass":"deg123456",
+            "name":"ahmed ali",
+            "age":"24",
+           "address":"Mansoura",
+           "email":"ahmedali22@yahoo.com",
+            "time":"9:30am",
+            "attendanceTimes":"22",
+            "abcentTimes":"2",
+            "lateTimes":"2",
+            "excuse":"3",
+            "flag":0
+            
+         }
+    ]
+}
